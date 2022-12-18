@@ -6,7 +6,7 @@ This is a python simulation of gravity on different planets.
 
 <br>
 
-<h2>Research>/h2>
+<h2>Research</h2>
 
 <h3>Guiding Question: How will the different amounts of gravity affect the output (a work of art) of the experiment?</h3>
 
