@@ -13,6 +13,7 @@ This is a python simulation of gravity on different planets.
 <h3>I looked at a variety of projects that aimed to simulate gravity, and there seem to be a few methods. I can drop the ball off a cliff, which I program in Python, and record how it reacts bouncing around. I can draw a box and then bounce the ball around the box. (Ended up choosing).</h3>
 
 When I looked at the Python documentation, I found out that there were many built-in functions that would help me program my Turtle. Those built-in functions include:
+<br>
 • penup() <br>
 • hideturtle() <br>
 • goto() <br>
