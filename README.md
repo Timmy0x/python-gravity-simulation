@@ -8,7 +8,7 @@ This is a python simulation of gravity on different planets.
 
 <h2>Research>/h2>
 
-<h3>Guiding Question: How will the different amounts of gravity affect the output (a work of art) of the experiment?</h2>
+<h3>Guiding Question: How will the different amounts of gravity affect the output (a work of art) of the experiment?</h3>
 
 <h3>I looked at a variety of projects that aimed to simulate gravity, and there seem to be a few methods. I can drop the ball off a cliff, which I program in Python, and record how it reacts bouncing around. I can draw a box and then bounce the ball around the box. (Ended up choosing).</h3>
 
