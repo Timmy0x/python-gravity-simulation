@@ -1,8 +1,6 @@
 <h1>Python Gravity Simulation</h1>
 
-<br>
-
-This is a python simulation of gravity on different planets.
+<p>This is a python simulation of gravity on different planets.</p>
 
 <br>
 
